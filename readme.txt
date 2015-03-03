@@ -5,3 +5,4 @@ love me love my dog
 Create new branch is quick
 
 master is new master
+dev is a new dev 
