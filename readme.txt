@@ -3,3 +3,5 @@ Git is free software.
 
 love me love my dog
 Create new branch is quick
+
+master is new master
